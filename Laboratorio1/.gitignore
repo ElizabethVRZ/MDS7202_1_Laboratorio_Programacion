@@ -1,0 +1,10 @@
+#Archivo para ignorar ciertas carpetas o documentos
+
+#Se ignora la carpeta video
+/videos/ 
+
+#Se ignoran los archivos .txt
+*.txt
+
+#No se ignora el documento 171.txt en la carpeta 
+!/texts/171.txt
